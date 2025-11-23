@@ -30,10 +30,10 @@ $$x_{k+1} = x_k + s_k d_k$$
 ## 📂 Structure du Dépôt
 Le travail est divisé en trois analyses indépendantes :
 
-| Fichier | Fonction Étudiée | Particularité | Responsable |
-| :--- | :--- | :--- | :--- |
+| Fichier | Fonction Étudiée | Particularité 
+| :--- | :--- | :--- | 
 | `1_Rosenbrock.ipynb` | Rosenbrock | Vallée étroite (Conditionnement difficile) 
-| `2_Quadratique.ipynb` | Quadratique | Point Selle (Non convexe) | 
+| `2_Quadratique.ipynb` | Quadratique | Point Selle (Non convexe) 
 | `3_Himmelblau.ipynb` | Himmelblau | Multi-modalité (4 minima) 
 
 ## 🚀 Installation et Exécution
